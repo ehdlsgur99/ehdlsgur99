@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0080ff&text=Inhyeok's%20github&fontColor=ffffff" />
 
-# 🌟 Stats 🌟
+# 🌟 stats 🌟
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehdlsgur99&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdlsgur99&layout=compact&count_private=true&hide_border=true)
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehdlsgur99&theme=github-light)
 # 🪄 skills 🪄
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
