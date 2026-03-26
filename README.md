@@ -4,7 +4,6 @@
 
 # 🌟 stats 🌟
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehdlsgur99&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdlsgur99&layout=compact&count_private=true&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehdlsgur99&theme=github-light)
@@ -22,3 +21,5 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
 </a>
 </div>
+
+
